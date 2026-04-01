@@ -121,9 +121,9 @@ fornecedores (id_fornecedor)
 * Um arquivo por contrato, padrão CONTRATO_CT-AAAA-XXXXX.pdf                  
 * Contém o instrumento jurídico-comercial completo                            
                                                                                 
-  ### PDFs de procedimentos)                               
-  * Documentos normativos internos reutilizáveis entre contratos                
-  * Organizados por 6 prefixos de área: SMS (Segurança), QLD (Qualidade), ENG   
+### PDFs de procedimentos)                               
+* Documentos normativos internos reutilizáveis entre contratos                
+* Organizados por 6 prefixos de área: SMS (Segurança), QLD (Qualidade), ENG   
   (Engenharia), AMB (Ambiental), MNT (Manutenção), LOG (Logística)            
     
 
