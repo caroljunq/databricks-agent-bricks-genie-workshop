@@ -1,0 +1,101 @@
+﻿id_fornecedor,razao_social,cnpj,categoria,cidade,estado,telefone,email,status_cadastro,data_cadastro,avaliacao_desempenho
+FORN-0001,Abreu Manutencao,45.350.328/0001-27,Revestimentos e Isolamentos,Lagoa das Águas,BA,(13) 98935-2424,abreu.manutencao@empresa.com.br,Ativo,2018-05-11,5.1
+FORN-0002,Abreu Manutencao do Brasil,74.716.127/0001-81,Serviços de Engenharia,Vila da Colina,RJ,(82) 96873-4611,abreu.manutencao.do.brasil@empresa.com.br,Ativo,2021-02-13,9.0
+FORN-0003,Albuquerque Equipamentos,99.532.448/0001-45,Materiais de Consumo,Lagoa do Sul,SP,(21) 95514-2674,albuquerque.equipamentos@empresa.com.br,Ativo,2019-02-01,6.8
+FORN-0004,Almeida Soldagem & Cia,43.926.144/0001-68,Construção e Montagem,Recanto Geraldo,PE,(13) 96201-2291,almeida.soldagem.e.cia@empresa.com.br,Ativo,2022-01-21,7.9
+FORN-0005,Alves Engenharia Ltda,94.333.891/0001-47,Equipamentos e Peças,Lagoa das Águas,BA,(21) 91654-7227,alves.engenharia.ltda@empresa.com.br,Ativo,2022-02-03,5.8
+FORN-0006,Andrade Dias,95.373.818/0001-97,Serviços de Calibração,Córrego Fagundes,PE,(13) 99980-3803,andrade.dias@empresa.com.br,Ativo,2020-09-29,5.8
+FORN-0007,Aparecida Mecanica do Brasil,91.804.670/0001-38,Serviços de Calibração,Várzea Bonita,MG,(41) 90916-4752,aparecida.mecanica.do.brasil@empresa.com.br,Inativo,2021-07-16,7.0
+FORN-0008,Aragão & Cia,82.997.835/0001-50,Serviços de Engenharia,Campo Raimundo,BA,(71) 96482-8517,aragão.e.cia@empresa.com.br,Ativo,2019-07-26,6.2
+FORN-0009,Aragão Mecanica,84.538.697/0001-61,Serviços de Inspeção e Ensaios,Nova da Mata,SC,(21) 92266-9348,aragão.mecanica@empresa.com.br,Ativo,2018-07-12,9.3
+FORN-0010,Araújo Manutencao,97.532.710/0001-18,Produtos Químicos e Catalisadores,Santa Grande,RS,(51) 99763-8668,araújo.manutencao@empresa.com.br,Ativo,2024-03-16,9.3
+FORN-0011,Araújo Moraes Automacao,24.798.649/0001-44,Serviços de Calibração,Nova Tibério,SP,(41) 91827-5808,araújo.moraes.automacao@empresa.com.br,Ativo,2023-02-02,5.0
+FORN-0012,Araújo da Costa Equipamentos Ltda,74.208.991/0001-90,Transporte e Logística,Arlindo do Sul,AL,(82) 99977-4258,araújo.da.costa.equipamentos.l@empresa.com.br,Ativo,2019-10-24,7.7
+FORN-0013,Azevedo Equipamentos & Cia,86.431.600/0001-12,Equipamentos e Peças,Barra das Águas,SC,(41) 95038-4923,azevedo.equipamentos.e.cia@empresa.com.br,Ativo,2024-05-12,9.7
+FORN-0014,Azevedo Isolamentos S.A.,18.878.645/0001-26,Materiais de Consumo,Baltazar do Cerrado,BA,(71) 99007-3705,azevedo.isolamentos.s.a.@empresa.com.br,Ativo,2024-10-20,7.1
+FORN-0015,Azevedo Peixoto Servicos & Cia,49.508.787/0001-93,Serviços de Inspeção e Ensaios,Vila da Colina,RJ,(71) 98479-8397,azevedo.peixoto.servicos.e.cia@empresa.com.br,Ativo,2020-07-09,5.3
+FORN-0016,Barbosa Macedo,80.335.702/0001-38,Serviços de Manutenção Industrial,Fagundes Verde,SP,(13) 90964-4750,barbosa.macedo@empresa.com.br,Ativo,2018-05-09,9.3
+FORN-0017,Barros Ltda,45.785.597/0001-37,Construção e Montagem,Campo Raimundo,BA,(19) 99355-8744,barros.ltda@empresa.com.br,Ativo,2023-04-22,9.0
+FORN-0018,Borges S.A.,22.774.541/0001-55,Produtos Químicos e Catalisadores,Lagoa Branca,RJ,(51) 97651-1887,borges.s.a.@empresa.com.br,Ativo,2019-02-08,5.3
+FORN-0019,Brito Brito Instrumentacao,41.296.294/0001-78,Instrumentação e Automação,Córrego Fagundes,PE,(19) 96912-4006,brito.brito.instrumentacao@empresa.com.br,Ativo,2020-10-20,9.4
+FORN-0020,Brito Garcia Inspecao S.A.,80.200.151/0001-93,Construção e Montagem,Baltazar do Cerrado,BA,(11) 91528-4872,brito.garcia.inspecao.s.a.@empresa.com.br,Ativo,2023-06-13,7.4
+FORN-0021,Caldeira Soldagem Industrial,31.488.102/0001-59,Transporte e Logística,Nova Joaquim,MG,(71) 94673-7930,caldeira.soldagem.industrial@empresa.com.br,Ativo,2024-03-26,8.3
+FORN-0022,Camargo Inspecao S.A.,34.403.322/0001-17,Serviços Ambientais,Ribeirão das Águas,PR,(82) 90998-6138,camargo.inspecao.s.a.@empresa.com.br,Ativo,2024-07-20,7.4
+FORN-0023,Campos Tubulacoes,17.620.182/0001-33,Equipamentos e Peças,Barra das Águas,SC,(81) 91113-4853,campos.tubulacoes@empresa.com.br,Ativo,2024-05-22,6.2
+FORN-0024,Cardoso Ribeiro Logistica Industrial,89.183.529/0001-94,Serviços Ambientais,Ponta Aparecida,MT,(81) 98565-6183,cardoso.ribeiro.logistica.indu@empresa.com.br,Inativo,2020-04-16,8.3
+FORN-0025,Carvalho Instrumentacao,43.505.234/0001-95,Serviços de Calibração,Córrego Fagundes,PE,(31) 97491-6180,carvalho.instrumentacao@empresa.com.br,Inativo,2018-10-25,5.0
+FORN-0026,Carvalho Moraes Engenharia do Brasil,19.650.318/0001-74,Transporte e Logística,Ponta Aparecida,MT,(19) 95718-2127,carvalho.moraes.engenharia.do.@empresa.com.br,Inativo,2022-02-22,6.4
+FORN-0027,Carvalho Sousa Servicos,48.726.926/0001-93,Construção e Montagem,Tibério do Sul,PR,(11) 99086-5905,carvalho.sousa.servicos@empresa.com.br,Inativo,2019-03-01,9.7
+FORN-0028,Casa Grande Instrumentacao,24.209.860/0001-80,Materiais de Consumo,Cachoeira do Rio,RS,(31) 94616-4450,casa.grande.instrumentacao@empresa.com.br,Ativo,2020-04-13,8.4
+FORN-0029,Cassiano Calibracao & Cia,42.966.152/0001-21,Serviços de Calibração,Morro Joaquim,AL,(51) 94533-1722,cassiano.calibracao.e.cia@empresa.com.br,Ativo,2019-06-20,8.2
+FORN-0030,Cassiano Equipamentos,66.664.822/0001-64,Construção e Montagem,Arlindo do Sul,AL,(11) 91832-2232,cassiano.equipamentos@empresa.com.br,Inativo,2019-09-03,7.7
+FORN-0031,Cassiano Freitas Servicos S.A.,80.251.540/0001-26,Serviços de Manutenção Industrial,Recanto Geraldo,PE,(31) 95974-1653,cassiano.freitas.servicos.s.a.@empresa.com.br,Inativo,2020-05-10,8.4
+FORN-0032,Cassiano Isolamentos Ltda,81.995.516/0001-89,Revestimentos e Isolamentos,Vila Henrique,BA,(19) 93878-3662,cassiano.isolamentos.ltda@empresa.com.br,Bloqueado,2019-12-27,9.4
+FORN-0033,Castro S.A.,52.901.521/0001-95,Revestimentos e Isolamentos,Lagoa do Sul,SP,(21) 94371-3608,castro.s.a.@empresa.com.br,Ativo,2019-03-19,6.9
+FORN-0034,Cirino Ambiental,38.304.936/0001-68,Serviços de Inspeção e Ensaios,Augusto do Norte,SP,(31) 93728-4652,cirino.ambiental@empresa.com.br,Ativo,2020-03-02,7.0
+FORN-0035,Correia Correia Industrial,45.459.756/0001-75,Produtos Químicos e Catalisadores,Arlindo do Sul,AL,(82) 95425-1452,correia.correia.industrial@empresa.com.br,Ativo,2020-12-05,5.9
+FORN-0036,Câmara Azevedo,23.710.544/0001-54,Revestimentos e Isolamentos,Arlindo do Sul,AL,(41) 97149-9379,câmara.azevedo@empresa.com.br,Ativo,2024-06-19,6.0
+FORN-0037,Câmara Industrial,65.101.632/0001-78,Serviços de Calibração,Nova Tibério,SP,(21) 95967-8066,câmara.industrial@empresa.com.br,Ativo,2021-09-14,8.1
+FORN-0038,Farias Equipamentos,74.416.782/0001-62,Serviços de Inspeção e Ensaios,Vila Henrique,BA,(51) 94844-3085,farias.equipamentos@empresa.com.br,Ativo,2022-04-02,8.4
+FORN-0039,Ferreira Ltda,61.661.953/0001-10,Transporte e Logística,Cachoeira do Rio,RS,(31) 93443-8043,ferreira.ltda@empresa.com.br,Ativo,2024-10-20,8.3
+FORN-0040,Fogaça Industrial,66.791.318/0001-75,Instrumentação e Automação,Tibério Bonita,PR,(19) 91389-5649,fogaça.industrial@empresa.com.br,Ativo,2021-10-04,5.5
+FORN-0041,Fonseca Soldagem,38.925.303/0001-28,Serviços de Manutenção Industrial,Santa Arlindo,RJ,(11) 94011-8784,fonseca.soldagem@empresa.com.br,Ativo,2018-10-26,7.3
+FORN-0042,Garcia Industrial,99.493.606/0001-61,Serviços de Engenharia,Ponta Aparecida,MT,(19) 90090-2746,garcia.industrial@empresa.com.br,Ativo,2020-06-15,5.9
+FORN-0043,Garcia Montagens Ltda,16.670.355/0001-25,Instrumentação e Automação,Nova da Mata,SC,(19) 97612-9702,garcia.montagens.ltda@empresa.com.br,Bloqueado,2024-09-04,6.6
+FORN-0044,Gomes Inspecao,74.536.950/0001-80,Instrumentação e Automação,Tibério do Sul,PR,(19) 97777-8373,gomes.inspecao@empresa.com.br,Ativo,2020-10-09,9.2
+FORN-0045,Guerra Araújo,90.344.381/0001-66,Equipamentos e Peças,Morro Joaquim,AL,(31) 93841-5451,guerra.araújo@empresa.com.br,Ativo,2024-01-22,5.4
+FORN-0046,Guerra Campos Logistica do Brasil,59.810.256/0001-37,Equipamentos e Peças,Santa Grande,RS,(51) 96678-6421,guerra.campos.logistica.do.bra@empresa.com.br,Ativo,2022-08-31,5.3
+FORN-0047,Jesus Mendonça,84.812.120/0001-83,Produtos Químicos e Catalisadores,Várzea Bonita,MG,(71) 90096-6763,jesus.mendonça@empresa.com.br,Ativo,2022-05-17,9.3
+FORN-0048,Jesus Quimica,79.919.717/0001-38,Instrumentação e Automação,Floriano das Palmeiras,MG,(21) 94471-8140,jesus.quimica@empresa.com.br,Ativo,2022-05-12,6.7
+FORN-0049,Leão Industrial,31.960.578/0001-26,Serviços Ambientais,Floriano das Palmeiras,MG,(82) 90441-7455,leão.industrial@empresa.com.br,Ativo,2018-04-22,5.4
+FORN-0050,Lopes Valvulas & Cia,69.286.151/0001-43,Produtos Químicos e Catalisadores,Nova Joaquim,MG,(41) 93467-8449,lopes.valvulas.e.cia@empresa.com.br,Ativo,2022-04-02,6.4
+FORN-0051,Marques Abreu,20.581.119/0001-79,Serviços de Manutenção Industrial,Várzea Bonita,MG,(41) 93673-2124,marques.abreu@empresa.com.br,Ativo,2018-06-14,8.8
+FORN-0052,Martins Garcia S.A.,12.736.256/0001-40,Materiais de Consumo,Vila da Colina,RJ,(71) 91874-4571,martins.garcia.s.a.@empresa.com.br,Ativo,2020-11-15,8.8
+FORN-0053,Martins Soldagem,30.418.210/0001-84,Serviços de Manutenção Industrial,Lagoa Augusto,RS,(31) 99433-7149,martins.soldagem@empresa.com.br,Ativo,2020-03-23,5.4
+FORN-0054,Montenegro Caldeira Industrial,99.891.408/0001-97,Serviços Ambientais,Lagoa Branca,RJ,(13) 99272-1672,montenegro.caldeira.industrial@empresa.com.br,Ativo,2022-10-21,8.3
+FORN-0055,Montenegro Inspecao,11.969.530/0001-72,Equipamentos e Peças,Vila Henrique,BA,(51) 95934-8532,montenegro.inspecao@empresa.com.br,Ativo,2022-11-19,5.9
+FORN-0056,Montenegro Quimica & Cia,88.927.651/0001-71,Instrumentação e Automação,Nova da Mata,SC,(51) 99707-5397,montenegro.quimica.e.cia@empresa.com.br,Ativo,2020-10-02,9.2
+FORN-0057,Nascimento Equipamentos Ltda,67.349.868/0001-69,Serviços Ambientais,Vila Henrique,BA,(81) 96209-6511,nascimento.equipamentos.ltda@empresa.com.br,Ativo,2021-08-24,5.9
+FORN-0058,Nascimento Siqueira,43.448.386/0001-86,Revestimentos e Isolamentos,Santa Arlindo,RJ,(31) 99106-1166,nascimento.siqueira@empresa.com.br,Ativo,2020-02-22,5.4
+FORN-0059,Nogueira Cardoso Equipamentos S.A.,81.876.346/0001-98,Instrumentação e Automação,Várzea Bonita,MG,(71) 97342-1282,nogueira.cardoso.equipamentos.@empresa.com.br,Ativo,2020-06-26,7.0
+FORN-0060,Novaes Ltda,94.695.477/0001-70,Construção e Montagem,Santa Arlindo,RJ,(82) 95632-7971,novaes.ltda@empresa.com.br,Bloqueado,2024-03-04,6.7
+FORN-0061,Nunes Silva Calibracao,49.357.336/0001-25,Revestimentos e Isolamentos,Tibério Bonita,PR,(21) 95169-2958,nunes.silva.calibracao@empresa.com.br,Ativo,2020-01-29,6.0
+FORN-0062,Oliveira Bombas do Brasil,85.878.637/0001-86,Transporte e Logística,Tibério Bonita,PR,(13) 93180-5853,oliveira.bombas.do.brasil@empresa.com.br,Ativo,2020-01-05,6.5
+FORN-0063,Pacheco Ltda,45.146.155/0001-80,Transporte e Logística,Barra das Águas,SC,(19) 98042-2680,pacheco.ltda@empresa.com.br,Inativo,2024-06-09,6.4
+FORN-0064,Pacheco Peixoto S.A.,53.288.152/0001-42,Instrumentação e Automação,Tibério Bonita,PR,(13) 91070-7565,pacheco.peixoto.s.a.@empresa.com.br,Ativo,2024-06-21,8.1
+FORN-0065,Pastor Câmara,29.930.676/0001-48,Equipamentos e Peças,Lagoa do Sul,SP,(21) 91940-7818,pastor.câmara@empresa.com.br,Ativo,2020-07-13,8.9
+FORN-0066,Pastor Manutencao Ltda,66.404.980/0001-85,Produtos Químicos e Catalisadores,Várzea Bonita,MG,(31) 99316-1986,pastor.manutencao.ltda@empresa.com.br,Ativo,2019-02-11,9.7
+FORN-0067,Pastor Soldagem,43.776.183/0001-30,Serviços de Engenharia,Vila da Colina,RJ,(19) 99043-2229,pastor.soldagem@empresa.com.br,Ativo,2022-08-01,7.3
+FORN-0068,Peixoto Equipamentos,47.133.337/0001-46,Revestimentos e Isolamentos,Várzea do Norte,MT,(31) 97438-2166,peixoto.equipamentos@empresa.com.br,Ativo,2020-12-19,8.9
+FORN-0069,Pereira S.A.,64.217.657/0001-38,Serviços de Calibração,Ponta Aparecida,MT,(19) 94352-3330,pereira.s.a.@empresa.com.br,Ativo,2019-11-11,9.0
+FORN-0070,Pires Industrial,66.227.579/0001-98,Transporte e Logística,Várzea do Norte,MT,(51) 94460-9199,pires.industrial@empresa.com.br,Ativo,2022-11-29,5.4
+FORN-0071,Porto Industrial,51.718.356/0001-13,Equipamentos e Peças,Augusto do Norte,SP,(21) 99424-1339,porto.industrial@empresa.com.br,Bloqueado,2021-01-08,7.9
+FORN-0072,Rezende Monteiro Industrial Ltda,76.767.552/0001-45,Materiais de Consumo,Arlindo Grande,RS,(81) 97141-9056,rezende.monteiro.industrial.lt@empresa.com.br,Bloqueado,2023-04-10,6.7
+FORN-0073,Rios Silva Logistica,95.207.978/0001-30,Serviços de Inspeção e Ensaios,Serra da Colina,PE,(51) 98117-5722,rios.silva.logistica@empresa.com.br,Ativo,2022-06-29,9.1
+FORN-0074,Rios da Mata Industrial,68.190.422/0001-42,Serviços de Inspeção e Ensaios,Barra das Águas,SC,(13) 96622-9431,rios.da.mata.industrial@empresa.com.br,Inativo,2018-01-05,8.3
+FORN-0075,Rocha Quimica,62.155.292/0001-76,Serviços de Inspeção e Ensaios,Nova da Mata,SC,(81) 98167-8242,rocha.quimica@empresa.com.br,Ativo,2020-04-13,6.3
+FORN-0076,Rodrigues Ambiental,66.815.596/0001-25,Serviços de Manutenção Industrial,Cachoeira do Rio,RS,(81) 93920-3594,rodrigues.ambiental@empresa.com.br,Ativo,2018-02-26,7.8
+FORN-0077,Rodrigues Duarte S.A.,24.572.220/0001-92,Materiais de Consumo,Campo Raimundo,BA,(71) 94781-9337,rodrigues.duarte.s.a.@empresa.com.br,Ativo,2022-08-29,9.2
+FORN-0078,Rodrigues Montagens,68.664.248/0001-59,Serviços de Engenharia,Ribeirão das Águas,PR,(81) 98327-3236,rodrigues.montagens@empresa.com.br,Inativo,2021-02-05,8.9
+FORN-0079,Sampaio Calibracao do Brasil,74.373.940/0001-10,Transporte e Logística,Várzea Bonita,MG,(31) 99616-9022,sampaio.calibracao.do.brasil@empresa.com.br,Inativo,2023-01-04,7.7
+FORN-0080,Sampaio Lima Quimica,80.881.656/0001-58,Instrumentação e Automação,Serra da Colina,PE,(41) 93090-4912,sampaio.lima.quimica@empresa.com.br,Ativo,2020-08-14,9.3
+FORN-0081,Santos Automacao Industrial,50.862.584/0001-58,Produtos Químicos e Catalisadores,Nova Joaquim,MG,(19) 98115-1606,santos.automacao.industrial@empresa.com.br,Ativo,2024-08-14,6.7
+FORN-0082,Santos Azevedo Isolamentos do Brasil,22.638.567/0001-11,Revestimentos e Isolamentos,Baltazar do Cerrado,BA,(19) 96717-3529,santos.azevedo.isolamentos.do.@empresa.com.br,Ativo,2020-12-21,6.7
+FORN-0083,Silva das Neves Quimica,20.972.436/0001-96,Construção e Montagem,Floriano das Palmeiras,MG,(51) 95188-8994,silva.das.neves.quimica@empresa.com.br,Inativo,2018-05-28,8.1
+FORN-0084,Siqueira S.A.,39.864.192/0001-65,Equipamentos e Peças,Santa Arlindo,RJ,(13) 97269-3725,siqueira.s.a.@empresa.com.br,Ativo,2018-04-29,5.2
+FORN-0085,Souza & Cia,55.483.541/0001-28,Serviços de Engenharia,Várzea Arlindo,SP,(82) 96751-3950,souza.e.cia@empresa.com.br,Ativo,2018-11-20,8.0
+FORN-0086,Souza Novais Calibracao,97.346.609/0001-84,Materiais de Consumo,Floriano das Palmeiras,MG,(21) 97555-5161,souza.novais.calibracao@empresa.com.br,Ativo,2018-02-08,9.5
+FORN-0087,Sá Inspecao,96.659.261/0001-19,Instrumentação e Automação,Tibério Bonita,PR,(41) 99626-5901,sá.inspecao@empresa.com.br,Ativo,2022-10-04,8.5
+FORN-0088,Teixeira Fernandes do Brasil,35.493.973/0001-71,Equipamentos e Peças,Tibério Bonita,PR,(21) 96248-6881,teixeira.fernandes.do.brasil@empresa.com.br,Ativo,2021-04-24,5.1
+FORN-0089,Vargas Equipamentos,11.679.985/0001-97,Revestimentos e Isolamentos,Várzea Bonita,MG,(11) 99935-9138,vargas.equipamentos@empresa.com.br,Inativo,2021-03-18,8.9
+FORN-0090,Vargas da Rocha Logistica Ltda,38.751.294/0001-89,Transporte e Logística,Santa Arlindo,RJ,(19) 91591-1645,vargas.da.rocha.logistica.ltda@empresa.com.br,Ativo,2022-12-11,5.2
+FORN-0091,Vieira Rodrigues Automacao do Brasil,26.192.402/0001-51,Revestimentos e Isolamentos,Recanto Geraldo,PE,(51) 92877-4289,vieira.rodrigues.automacao.do.@empresa.com.br,Ativo,2024-01-19,9.4
+FORN-0092,da Conceicao Logistica Industrial,74.379.950/0001-31,Transporte e Logística,Recanto Geraldo,PE,(71) 94835-6549,da.conceicao.logistica.industr@empresa.com.br,Inativo,2023-04-03,9.8
+FORN-0093,da Conceicao Montenegro Ambiental,96.841.790/0001-60,Construção e Montagem,Santa Grande,RS,(41) 91479-7464,da.conceicao.montenegro.ambien@empresa.com.br,Ativo,2024-01-07,5.6
+FORN-0094,da Cruz Ambiental S.A.,96.368.698/0001-58,Serviços de Calibração,Recanto Geraldo,PE,(41) 91775-4830,da.cruz.ambiental.s.a.@empresa.com.br,Ativo,2024-04-18,6.6
+FORN-0095,da Luz Bombas,92.164.750/0001-69,Revestimentos e Isolamentos,Ponta Aparecida,MT,(31) 96689-2911,da.luz.bombas@empresa.com.br,Ativo,2018-06-02,6.5
+FORN-0096,da Luz Goncalves S.A.,22.340.650/0001-27,Produtos Químicos e Catalisadores,Ribeirão das Águas,PR,(71) 96078-9850,da.luz.goncalves.s.a.@empresa.com.br,Ativo,2019-09-25,9.4
+FORN-0097,da Luz Moura,88.517.386/0001-14,Revestimentos e Isolamentos,Baltazar do Cerrado,BA,(41) 93559-8264,da.luz.moura@empresa.com.br,Ativo,2020-08-25,9.3
+FORN-0098,da Mota Rios Industrial,79.760.467/0001-17,Produtos Químicos e Catalisadores,Vila Henrique,BA,(31) 93109-3001,da.mota.rios.industrial@empresa.com.br,Inativo,2023-02-06,5.5
+FORN-0099,da Paz Equipamentos & Cia,16.905.441/0001-41,Materiais de Consumo,Lagoa Branca,RJ,(81) 93362-2124,da.paz.equipamentos.e.cia@empresa.com.br,Inativo,2024-03-20,6.0
+FORN-0100,da Rocha Cunha Isolamentos do Brasil,52.892.251/0001-86,Serviços de Manutenção Industrial,Vila da Colina,RJ,(31) 92370-3129,da.rocha.cunha.isolamentos.do.@empresa.com.br,Ativo,2019-12-16,5.5
